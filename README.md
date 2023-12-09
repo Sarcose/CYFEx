@@ -13,22 +13,22 @@ As of right now there is no Steam upload as it is waiting on much more work. How
 Please feel free to suggest more! Especially Truekin, as I am less familiar with common builds
 
 ### Mutants
-~~2 head warrior: Ettin~~
-~~2 head esper~~
-~~4 Arm warrior: Goro-style~~
-~~Many-limbed Horseshoe crab style~~
-~~2 head multi-limb tinker~~
-Stinger tail sprites (4 legged, 2 legged?)
-Winged sprites (many arms with wings -- insect or angel style)
-"Ball of Limbs / Ball of Axes"
-~~4 arm hindren warrior~~
-~~Hindren gunner~~
-~~Two head esper Hindren~~
-At least one Gelatinous Form sprite
+- ~~2 head warrior: Ettin~~
+- ~~2 head esper~~
+- ~~4 Arm warrior: Goro-style~~
+- ~~Many-limbed Horseshoe crab style~~
+- ~~2 head multi-limb tinker~~
+- Stinger tail sprites (4 legged, 2 legged?)
+- Winged sprites (many arms with wings -- insect or angel style)
+- "Ball of Limbs / Ball of Axes"
+- ~~4 arm hindren warrior~~
+- ~~Hindren gunner~~
+- ~~Two head esper Hindren~~
+- At least one Gelatinous Form sprite
 
 ### Truekin
-~~Gunkin~~
-~~Punchkin~~
-Helping hands
-Giant hands/giant rifle
+- ~~Gunkin~~
+- ~~Punchkin~~
+- Helping hands
+- Giant hands/giant rifle
 
