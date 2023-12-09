@@ -1,6 +1,29 @@
 # CYFEx
-An expansion for Choose Your Fighter for Caves of Qud.
+An expansion for Choose Your Fighter for Caves of Qud. Obviously this mod will not work if you aren't using Kernelmethod's excellent Choose Your Fighter mod.
 
 ![githubpreview](https://github.com/Sarcose/CYFEx/assets/6192665/b126a1f4-79ca-4ece-9d0e-e4ac1ab6639b)
 
 Caves of Qud is a brilliantly deep and immersive game with surprisingly good visual style for a roguelike. There are dozens of different cute and visually striking silhouette-style player sprites to choose from, and they capture a wide variety of character and personality. Despite this, the one thing I have always felt it's missing is the lack of visually present mutations or cybernetics - other than the shell on the Dream Tortoise and the torso of an errant Hindren, there are no player sprites to represent the vast amount of many-limbed horrs mutant players often build, or the dystopic cyborgs Truekin players put together. Thus, CYFEx - Choose Your Fighter Expansion - is born. As of right now, there is no Steam upload as it is not yet ready - I plan to make many sprites yet. Feel free to DM me, comment or open an issue with character build requests!
+
+Planned Sprites -- please feel free to suggest more! Especially Truekin, as I am less familiar with common builds
+
+Mutants
+~~2 head warrior: Ettin~~
+~~2 head esper~~
+~~4 Arm warrior: Goro-style~~
+~~Many-limbed Horseshoe crab style~~
+~~2 head multi-limb tinker~~
+Stinger tail sprites (4 legged, 2 legged?)
+Winged sprites (many arms with wings -- insect or angel style)
+"Ball of Limbs / Ball of Axes"
+~~4 arm hindren warrior~~
+~~Hindren gunner~~
+~~Two head esper Hindren~~
+At least one Gelatinous Form sprite
+
+Truekin
+~~Gunkin~~
+~~Punchkin~~
+Helping hands
+Giant hands/giant rifle
+
