@@ -24,28 +24,8 @@
   <model ID="CYFEcarbidehandbones" Name="{{M|Punchkin}}">
     <tile Path="players/carbidehandbones.png" Foreground="y" DetailColor="B" />
   </model>
-  <model ID="CYFE9" Name="{{M|CYFE9}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  <model ID="CYFEgunkin" Name="{{M|Gunkin}}">
+    <tile Path="players/gunkin.png" Foreground="y" DetailColor="c" />
   </model>
-  <model ID="CYFE10" Name="{{M|CYFE10}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
-  </model>
-  <model ID="CYFE11" Name="{{M|CYFE11}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
-  </model>
-  <model ID="CYFE12" Name="{{M|CYFE12}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
-  </model>
-  <model ID="CYFE13" Name="{{M|CYFE13}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
-  </model>
-  <model ID="CYFE14" Name="{{M|CYFE14}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
-  </model>
-  <model ID="CYFE15" Name="{{M|CYFE15}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
-  </model>
-  <model ID="CYFE16" Name="{{M|CYFE16}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
-  </model>
+
 </KernelmethodChooseYourFighter>
