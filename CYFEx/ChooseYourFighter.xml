@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KernelmethodChooseYourFighter>
+  <model ID="CYFE2headettin" Name="{{M|2 Headed (Ettin)}}">
+    <tile Path="players/ettin.png" Foreground="y" DetailColor="g" />
+  </model>
+  <model ID="CYFE2headesper" Name="{{M|2 Headed (Double-mind)}}">
+    <tile Path="players/2headesper.png" Foreground="y" DetailColor="m" />
+  </model>
+  <model ID="CYFE4armbruiser" Name="{{M|4 Arms (Champion Bruiser)}}">
+    <tile Path="players/4armbruiser.png" Foreground="y" DetailColor="w" />
+  </model>
+  <model ID="CYFE8limbchitinous" Name="{{M|8 Limbs (Chitinous Horror)}}">
+    <tile Path="players/manylimbchitinous.png" Foreground="y" DetailColor="w" />
+  </model>
+  <model ID="CYFE4armhindren" Name="{{M|8 Limbs (Hindren Weaponmaster)}}">
+    <tile Path="players/4armhindren.png" Foreground="y" DetailColor="B" />
+  </model>
+  <model ID="CYFE2headhindren" Name="{{M|2 Headed Hindren}}">
+    <tile Path="players/2headhindren.png" Foreground="y" DetailColor="b" />
+  </model>
+  <model ID="CYFEmultilimbtinker" Name="{{M|Many-limbed (Mutated Tinker)}}">
+    <tile Path="players/multilimbtinker.png" Foreground="c" DetailColor="o" />
+  </model>
+  <model ID="CYFEcarbidehandbones" Name="{{M|Punchkin}}">
+    <tile Path="players/carbidehandbones.png" Foreground="y" DetailColor="B" />
+  </model>
+  <model ID="CYFE9" Name="{{M|CYFE9}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE10" Name="{{M|CYFE10}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE11" Name="{{M|CYFE11}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE12" Name="{{M|CYFE12}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE13" Name="{{M|CYFE13}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE14" Name="{{M|CYFE14}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE15" Name="{{M|CYFE15}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE16" Name="{{M|CYFE16}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="W" />
+  </model>
+</KernelmethodChooseYourFighter>
