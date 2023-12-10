@@ -8,7 +8,6 @@ Caves of Qud is a brilliantly deep and immersive game with surprisingly good vis
 ## Installation
 As of right now there is no Steam upload as it is waiting on much more work. However, it is available to run as-is and compatible with 206.37 as long as you have the appropriate download of Choose Your Fighter (the current Steam release should be fine). There should not be many things that will break this mod's specific compatibility, as it has its own references - as long as the base CYF mod keeps the same namespace it should remain compatible. Install this in your offline mod folder.
 
-
 ## Planned Sprites 
 Please feel free to suggest more! Especially Truekin, as I am less familiar with common builds
 
@@ -36,7 +35,6 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - Giant hands/giant rifle (there is *one* big weapon person so far though)
 
 ### Full Lineup So Far
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/fc41aa08-d906-4211-bed7-81100ae05b73)
-
+![image](https://github.com/Sarcose/CYFEx/assets/6192665/ebb27c6b-8518-43f9-add1-48dde8c3e0dc)
 
 
