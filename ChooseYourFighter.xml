@@ -30,6 +30,8 @@
   <model ID="CYFEmanyfaces" Name="{{M|Super Ego}}">
     <tile Path="players/manyfacedegoist.png" Foreground="y" DetailColor="O" />
   </model>
-
+  <model ID="CYFEbigweapon" Name="{{M|Hugeweapon}}">
+    <tile Path="players/4handbigweapon.png" Foreground="y" DetailColor="W" />
+  </model>
 
 </KernelmethodChooseYourFighter>

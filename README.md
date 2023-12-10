@@ -18,6 +18,8 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - ~~4 Arm warrior: Goro-style~~
 - ~~Many-limbed Horseshoe crab style~~
 - ~~2 head multi-limb tinker~~
+- ~~Big weapon wielder (possibly multi-handed)~~
+- ~~Many-faced esper/proselytizer~~
 - Stinger tail sprites (4 legged, 2 legged?)
 - Winged sprites (many arms with wings -- insect or angel style)
 - "Ball of Limbs / Ball of Axes"
@@ -30,5 +32,5 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - ~~Gunkin~~
 - ~~Punchkin~~
 - Helping hands
-- Giant hands/giant rifle
+- Giant hands/giant rifle (there is *one* big weapon person so far though)
 
