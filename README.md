@@ -21,6 +21,7 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - ~~Many-faced esper/proselytizer~~
 - Stinger tail sprites (4 legged, 2 legged?)
 - Winged sprites (many arms with wings -- insect or angel style)
+- ~~Hooded Flyer (angelic?)~~
 - "Ball of Limbs / Ball of Axes"
 - ~~4 arm hindren warrior~~
 - Hindren gunner
@@ -35,7 +36,7 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - Giant hands/giant rifle (there is *one* big weapon person so far though)
 
 ### Full Lineup So Far
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/ebb27c6b-8518-43f9-add1-48dde8c3e0dc)
+![image](https://github.com/Sarcose/CYFEx/assets/6192665/c917ff3e-f52f-4a47-a4e4-fe1c7059783b)
 
 
 
