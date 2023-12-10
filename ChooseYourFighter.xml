@@ -33,5 +33,10 @@
   <model ID="CYFEbigweapon" Name="{{M|Hugeweapon}}">
     <tile Path="players/4handbigweapon.png" Foreground="y" DetailColor="W" />
   </model>
+  <model ID="CYFEtreadbot" Name="{{M|Treadbot (with gunracks)}}">
+    <tile Path="players/guntank.png" Foreground="y" DetailColor="c" />
+  </model>
+
+
 
 </KernelmethodChooseYourFighter>
