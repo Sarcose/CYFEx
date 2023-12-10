@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <KernelmethodChooseYourFighter>
+  <model ID="CYFE_tehuilotic" Name="{{M|Tehuilotic}}">
+    <tile Path="players/sw_tehuineonate.png" Foreground="g" DetailColor="K" />
+  </model>
   <model ID="CYFE2headettin" Name="{{M|2 Headed (Ettin)}}">
     <tile Path="players/ettin.png" Foreground="y" DetailColor="g" />
   </model>
@@ -12,31 +15,39 @@
   <model ID="CYFE8limbchitinous" Name="{{M|8 Limbs (Chitinous Horror)}}">
     <tile Path="players/manylimbchitinous.png" Foreground="y" DetailColor="w" />
   </model>
-  <model ID="CYFE4armhindren" Name="{{M|8 Limbs (Hindren Weaponmaster)}}">
+  <model ID="CYFE9LimbHorror" Name="{{M|Only Appendages! (Ball of Limbs)}}">
+    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="w" />
+  </model>
+    <model ID="CYFE4armhindren" Name="{{M|8 Limbs (Hindren Weaponmaster)}}">
     <tile Path="players/4armhindren.png" Foreground="y" DetailColor="B" />
   </model>
   <model ID="CYFE2headhindren" Name="{{M|2 Headed Hindren}}">
     <tile Path="players/2headhindren.png" Foreground="y" DetailColor="b" />
   </model>
-  <model ID="CYFEmultilimbtinker" Name="{{M|Many-limbed (Mutated Tinker)}}">
-    <tile Path="players/multilimbtinker.png" Foreground="c" DetailColor="o" />
-  </model>
-  <model ID="CYFEcarbidehandbones" Name="{{M|Punchkin}}">
-    <tile Path="players/carbidehandbones.png" Foreground="y" DetailColor="B" />
-  </model>
-  <model ID="CYFEgunkin" Name="{{M|Gunkin}}">
-    <tile Path="players/gunkin.png" Foreground="y" DetailColor="c" />
+  <model ID="CYFEHoodedFlyer" Name="{{M|Hooded Flyer}}">
+    <tile Path="players/wingedhood.png" Foreground="y" DetailColor="W" />
   </model>
   <model ID="CYFEmanyfaces" Name="{{M|Super Ego}}">
     <tile Path="players/manyfacedegoist.png" Foreground="y" DetailColor="O" />
   </model>
-  <model ID="CYFEbigweapon" Name="{{M|Hugeweapon}}">
+  <model ID="CYFEmultilimbtinker" Name="{{M|Many-limbed (Mutated Tinker)}}">
+    <tile Path="players/multilimbtinker.png" Foreground="c" DetailColor="o" />
+  </model>
+    <model ID="CYFEScorpionTail" Name="{{M|Scorpperson}}">
+    <tile Path="players/scorpperson.png" Foreground="y" DetailColor="w" />
+  </model>
+  <model ID="CYFETbigweapon" Name="{{M|Hugeweapon}}">
     <tile Path="players/4handbigweapon.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFETPunch" Name="{{M|Punchkin}}">
+    <tile Path="players/carbidehandbones.png" Foreground="y" DetailColor="B" />
+  </model>
+  <model ID="CYFETGuns" Name="{{M|Gunkin}}">
+    <tile Path="players/gunkin.png" Foreground="y" DetailColor="c" />
   </model>
   <model ID="CYFEtreadbot" Name="{{M|Treadbot (with gunracks)}}">
     <tile Path="players/guntank.png" Foreground="y" DetailColor="c" />
   </model>
-
 
 
 </KernelmethodChooseYourFighter>
