@@ -31,10 +31,12 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 ### Truekin
 - ~~Gunkin~~
 - ~~Punchkin~~
+- ~~Fully cyborgized tankbot~~
 - Helping hands
 - Giant hands/giant rifle (there is *one* big weapon person so far though)
 
 ### Full Lineup So Far
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/6e880f74-751c-4461-99a9-55ec8117faf5)
+![image](https://github.com/Sarcose/CYFEx/assets/6192665/fc41aa08-d906-4211-bed7-81100ae05b73)
+
 
 
