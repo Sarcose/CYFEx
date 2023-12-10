@@ -36,7 +36,8 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - Giant hands/giant rifle (there is *one* big weapon person so far though)
 
 ### Full Lineup So Far
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/fc41aa08-d906-4211-bed7-81100ae05b73)
+![image](https://github.com/Sarcose/CYFEx/assets/6192665/ebb27c6b-8518-43f9-add1-48dde8c3e0dc)
+
 
 
 
