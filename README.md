@@ -23,11 +23,6 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - Multi-legged stinger tail
 - Winged sprites (many arms with wings -- insect or angel style)
 - ~~Hooded Flyer (angelic?)~~
-<<<<<<< HEAD
-- ~~"Ball of Limbs"~~
-=======
-- "Ball of Limbs / Ball of Axes"
->>>>>>> fba0ab59a01e9acbe6acfc6a634453ea153308f4
 - ~~4 arm hindren warrior~~
 - Hindren gunner
 - ~~Two head esper Hindren~~
@@ -42,13 +37,5 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 <<<<<<< HEAD
 - 
 ![image](https://github.com/Sarcose/CYFEx/assets/6192665/0050d250-6ef1-4ed1-8367-8735d16bf8f4)
-
-=======
-
-### Full Lineup So Far
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/c917ff3e-f52f-4a47-a4e4-fe1c7059783b)
->>>>>>> fba0ab59a01e9acbe6acfc6a634453ea153308f4
-
-
 
 
