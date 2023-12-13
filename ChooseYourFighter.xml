@@ -48,6 +48,8 @@
   <model ID="CYFEtreadbot" Name="{{M|Treadbot (with gunracks)}}">
     <tile Path="players/guntank.png" Foreground="y" DetailColor="c" />
   </model>
-
+  <model ID="CYFEwingedhood" Name="{{M|Hooded Flyer}}">
+    <tile Path="players/wingedhood.png" Foreground="y" DetailColor="c" />
+  </model>
 
 </KernelmethodChooseYourFighter>
