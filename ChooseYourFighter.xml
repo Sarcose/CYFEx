@@ -1,55 +1,93 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <KernelmethodChooseYourFighter>
-  <model ID="CYFE_tehuilotic" Name="{{M|Tehuilotic}}">
-    <tile Path="players/sw_tehuineonate.png" Foreground="g" DetailColor="K" />
+  <model ID="CYFE_base_2headettin" Name="{{M|2 Headed (Ettin)}}">
+    <tile Path="players/ettin.png" Foreground="Y" DetailColor="g" />   
   </model>
-  <model ID="CYFE2headettin" Name="{{M|2 Headed (Ettin)}}">
-    <tile Path="players/ettin.png" Foreground="y" DetailColor="g" />
-  </model>
-  <model ID="CYFE2headesper" Name="{{M|2 Headed (Double-mind)}}">
+  <model ID="CYFE_base_2headesper" Name="{{M|2 Headed (Double-mind)}}">
     <tile Path="players/2headesper.png" Foreground="y" DetailColor="m" />
   </model>
-  <model ID="CYFE4armbruiser" Name="{{M|4 Arms (Champion Bruiser)}}">
-    <tile Path="players/4armbruiser.png" Foreground="y" DetailColor="w" />
+  <model ID="CYFE_base_4armbruiser" Name="{{M|4 Arms (Champion Bruiser)}}">
+    <tile Path="players/4armbruiser.png" Foreground="O" DetailColor="R" />
   </model>
-  <model ID="CYFE8limbchitinous" Name="{{M|8 Limbs (Chitinous Horror)}}">
-    <tile Path="players/manylimbchitinous.png" Foreground="y" DetailColor="w" />
+  <model ID="CYFE_base_8limbchitinous" Name="{{M|8 Limbs (Chitinous Horror)}}">
+    <tile Path="players/manylimbchitinous.png" Foreground="Y" DetailColor="O" /> 
   </model>
-  <model ID="CYFE9LimbHorror" Name="{{M|Only Appendages! (Ball of Limbs)}}">
-    <tile Path="players/ballofarms.png" Foreground="y" DetailColor="w" />
+  <model ID="CYFE_base_8limbearwig" Name="{{M|8 Limbs (Skittering Nomad)}}">
+    <tile Path="players/earwigmutant.png" Foreground="y" DetailColor="c" /> 
   </model>
-    <model ID="CYFE4armhindren" Name="{{M|8 Limbs (Hindren Weaponmaster)}}">
-    <tile Path="players/4armhindren.png" Foreground="y" DetailColor="B" />
+  <model ID="CYFE_base_9LimbHorror" Name="{{M|Only Appendages! (Ball of Limbs)}}">
+    <tile Path="players/ballofarms.png" Foreground="W" DetailColor="R" />
   </model>
-  <model ID="CYFE2headhindren" Name="{{M|2 Headed Hindren}}">
-    <tile Path="players/2headhindren.png" Foreground="y" DetailColor="b" />
+    <model ID="CYFE_base_4armhindren" Name="{{M|8 Limbs (Hindren Weaponmaster)}}">
+    <tile Path="players/4armhindren.png" Foreground="W" DetailColor="w" />
   </model>
-  <model ID="CYFEHoodedFlyer" Name="{{M|Hooded Flyer}}">
+  <model ID="CYFE_base_2headhindren" Name="{{M|2 Headed Hindren}}">
+    <tile Path="players/2headhindren.png" Foreground="Y" DetailColor="b" /> 
+  </model>
+  <model ID="CYFE_base_HoodedFlyer" Name="{{M|Hooded Flyer}}">
     <tile Path="players/wingedhood.png" Foreground="y" DetailColor="W" />
   </model>
-  <model ID="CYFEmanyfaces" Name="{{M|Super Ego}}">
+  <model ID="CYFE_base_manyfaces" Name="{{M|Super Ego}}">
     <tile Path="players/manyfacedegoist.png" Foreground="y" DetailColor="O" />
+  <model ID="CYFE_base_multilimbtinker" Name="{{M|Many-limbed (Mutated Tinker)}}">
+    <tile Path="players/multilimbtinker.png" Foreground="c" DetailColor="o" /> 
   </model>
-  <model ID="CYFEmultilimbtinker" Name="{{M|Many-limbed (Mutated Tinker)}}">
-    <tile Path="players/multilimbtinker.png" Foreground="c" DetailColor="o" />
+    <model ID="CYFE_base_ScorpionTail" Name="{{M|Scorpperson}}">
+    <tile Path="players/scorpperson.png" Foreground="Y" DetailColor="o" /> 
   </model>
-    <model ID="CYFEScorpionTail" Name="{{M|Scorpperson}}">
-    <tile Path="players/scorpperson.png" Foreground="y" DetailColor="w" />
-  </model>
-  <model ID="CYFETbigweapon" Name="{{M|Hugeweapon}}">
+  <model ID="CYFE_base_Tbigweapon" Name="{{M|Hugeweapon}}">
     <tile Path="players/4handbigweapon.png" Foreground="y" DetailColor="W" />
   </model>
-  <model ID="CYFETPunch" Name="{{M|Punchkin}}">
+  <model ID="CYFE_base_TPunch" Name="{{M|Punchkin}}">
     <tile Path="players/carbidehandbones.png" Foreground="y" DetailColor="B" />
   </model>
-  <model ID="CYFETGuns" Name="{{M|Gunkin}}">
-    <tile Path="players/gunkin.png" Foreground="y" DetailColor="c" />
+  <model ID="CYFE_base_TGuns" Name="{{M|Gunkin}}">
+    <tile Path="players/gunkin.png" Foreground="y" DetailColor="c" /> 
   </model>
-  <model ID="CYFEtreadbot" Name="{{M|Treadbot (with gunracks)}}">
+  <model ID="CYFE_base_treadbot" Name="{{M|Treadbot (with gunracks)}}">
     <tile Path="players/guntank.png" Foreground="y" DetailColor="c" />
   </model>
-  <model ID="CYFEwingedhood" Name="{{M|Hooded Flyer}}">
+  <model ID="CYFE_base_wingedhood" Name="{{M|Hooded Flyer}}">
     <tile Path="players/wingedhood.png" Foreground="y" DetailColor="c" />
   </model>
+
+
+
+  <model ID="CYFE_eule_tehuilotic" Name="{{M|Tehuilotic (Eule)}}">
+      <tile Path="players/tehuineonate.png" Foreground="G" DetailColor="K" />
+    </model>
+  <model ID="CYFE_eule_exilewightmender" Name="{{M|Exile Wight Mender (Eule)}}">
+      <tile Path="players/exile_wight_mender.png" Foreground="M" DetailColor="R" />
+  </model>
+  <model ID="CYFE_eule_exilewightscavenger" Name="{{M|Exile Wight Scavenger (Eule)}}">
+      <tile Path="players/exile_wight_scavenger.png" Foreground="m" DetailColor="R" /> 
+  </model>
+  <model ID="CYFE_eule_exilewightstalker" Name="{{M|Exile Wight Stalker (Eule)}}">
+      <tile Path="players/exile_wight_stalker.png" Foreground="m" DetailColor="r" /> 
+  </model>
+    <model ID="CYFE_eule_exilemutant" Name="{{M|Exile Mutant (Eule)}}">
+      <tile Path="players/exile_mutant.png" Foreground="K" DetailColor="g" /> 
+  </model>
+  <model ID="CYFE_eule_exilemutantguard" Name="{{M|Exile Mutant Guard (Eule)}}">
+      <tile Path="players/exile_mutant_guard.png" Foreground="K" DetailColor="B" />
+  </model>
+  <model ID="CYFE_eule_exilemutantpreacher" Name="{{M|Exile Mutant Preacher (Eule)}}">
+      <tile Path="players/exile_mutant_preacher.png" Foreground="K" DetailColor="M" />
+  </model>
+  <model ID="CYFE_eule_exiletruekin" Name="{{M|Exile Truekin (Eule)}}">
+      <tile Path="players/exile_truekin.png" Foreground="y" DetailColor="O" /> 
+  </model>
+  <model ID="CYFE_eule_exiletruekinguard" Name="{{M|Exile Truekin Guard (Eule)}}">
+      <tile Path="players/exile_truekin_guard.png" Foreground="y" DetailColor="B" />
+  </model>
+  <model ID="CYFE_eule_exiletruekinpreacher" Name="{{M|Exile Truekin Preacher (Eule)}}">
+      <tile Path="players/exile_truekin_preacher.png" Foreground="y" DetailColor="C" /> 
+  </model>
+    <model ID="CYFE_eule_maskedstranger" Name="{{M|Masked Stranger (Eule)}}">
+      <tile Path="players/maskedstranger.png" Foreground="Y" DetailColor="c" /> 
+  </model>
+
+
+
 
 </KernelmethodChooseYourFighter>
