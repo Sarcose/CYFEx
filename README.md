@@ -11,10 +11,10 @@ As of right now there is no Steam upload as it is waiting on much more work. How
 
 ## Recommendation
 There is a lot of color design in many player sprites (not just in this mod but in others as well) and the "Color player's @ based on HP Level" option can wash them out at full health. Turning this off will improve the look of a lot of sprites. 
-    - It can be found in Options -> Overlay UI -> User Interface -> "Color player's @ based on HP Level"
+- It can be found in Options -> Overlay UI -> User Interface -> "Color player's @ based on HP Level"
 
 ## Outside Contributors:
-    - Eule: Tehuilotic sprite and Exile mutants, truekin, and wights
+- Eule: Tehuilotic sprite and Exile mutants, truekin, and wights
 
 ## Planned Sprites 
 Please feel free to suggest more! Especially Truekin, as I am less familiar with common builds
