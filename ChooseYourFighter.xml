@@ -50,9 +50,6 @@
   <model ID="CYFE_base_wingedhood" Name="{{M|Hooded Flyer}}">
     <tile Path="players/wingedhood.png" Foreground="y" DetailColor="c" />
   </model>
-
-
-
   <model ID="CYFE_eule_tehuilotic" Name="{{M|Tehuilotic (Eule)}}">
       <tile Path="players/tehuineonate.png" Foreground="G" DetailColor="K" />
     </model>

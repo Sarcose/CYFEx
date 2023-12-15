@@ -13,6 +13,9 @@ As of right now there is no Steam upload as it is waiting on much more work. How
 There is a lot of color design in many player sprites (not just in this mod but in others as well) and the "Color player's @ based on HP Level" option can wash them out at full health. Turning this off will improve the look of a lot of sprites. 
     - It can be found in Options -> Overlay UI -> User Interface -> "Color player's @ based on HP Level"
 
+## Outside Contributors:
+    ### Eule: Tehuilotic sprite and Exile mutants, truekin, and wights
+
 ## Planned Sprites 
 Please feel free to suggest more! Especially Truekin, as I am less familiar with common builds
 
@@ -40,6 +43,7 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - Helping hands
 - Giant hands/giant rifle (there is *one* big weapon person so far though)
 - 
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/938489ec-c0b9-472c-8552-ab9336042863)
+
+![image](https://github.com/Sarcose/CYFEx/assets/6192665/07ace4cd-c0c9-4997-8382-89926617e163)
 
 
