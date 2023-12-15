@@ -14,7 +14,7 @@ There is a lot of color design in many player sprites (not just in this mod but 
     - It can be found in Options -> Overlay UI -> User Interface -> "Color player's @ based on HP Level"
 
 ## Outside Contributors:
-    ### Eule: Tehuilotic sprite and Exile mutants, truekin, and wights
+    - Eule: Tehuilotic sprite and Exile mutants, truekin, and wights
 
 ## Planned Sprites 
 Please feel free to suggest more! Especially Truekin, as I am less familiar with common builds
