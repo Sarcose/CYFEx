@@ -18,7 +18,7 @@
   <model ID="CYFE_base_9LimbHorror" Name="{{M|Only Appendages! (Ball of Limbs)}}">
     <tile Path="players/ballofarms.png" Foreground="W" DetailColor="R" />
   </model>
-    <model ID="CYFE_base_4armhindren" Name="{{M|8 Limbs (Hindren Weaponmaster)}}">
+  <model ID="CYFE_base_4armhindren" Name="{{M|8 Limbs (Hindren Weaponmaster)}}">
     <tile Path="players/4armhindren.png" Foreground="W" DetailColor="w" />
   </model>
   <model ID="CYFE_base_2headhindren" Name="{{M|2 Headed Hindren}}">
@@ -29,10 +29,12 @@
   </model>
   <model ID="CYFE_base_manyfaces" Name="{{M|Super Ego}}">
     <tile Path="players/manyfacedegoist.png" Foreground="y" DetailColor="O" />
+  </model>
+
   <model ID="CYFE_base_multilimbtinker" Name="{{M|Many-limbed (Mutated Tinker)}}">
     <tile Path="players/multilimbtinker.png" Foreground="c" DetailColor="o" /> 
   </model>
-    <model ID="CYFE_base_ScorpionTail" Name="{{M|Scorpperson}}">
+  <model ID="CYFE_base_ScorpionTail" Name="{{M|Scorpperson}}">
     <tile Path="players/scorpperson.png" Foreground="Y" DetailColor="o" /> 
   </model>
   <model ID="CYFE_base_Tbigweapon" Name="{{M|Hugeweapon}}">
@@ -52,7 +54,7 @@
   </model>
   <model ID="CYFE_eule_tehuilotic" Name="{{M|Tehuilotic (Eule)}}">
       <tile Path="players/tehuineonate.png" Foreground="G" DetailColor="K" />
-    </model>
+  </model>
   <model ID="CYFE_eule_exilewightmender" Name="{{M|Exile Wight Mender (Eule)}}">
       <tile Path="players/exile_wight_mender.png" Foreground="M" DetailColor="R" />
   </model>
@@ -62,7 +64,7 @@
   <model ID="CYFE_eule_exilewightstalker" Name="{{M|Exile Wight Stalker (Eule)}}">
       <tile Path="players/exile_wight_stalker.png" Foreground="m" DetailColor="r" /> 
   </model>
-    <model ID="CYFE_eule_exilemutant" Name="{{M|Exile Mutant (Eule)}}">
+  <model ID="CYFE_eule_exilemutant" Name="{{M|Exile Mutant (Eule)}}">
       <tile Path="players/exile_mutant.png" Foreground="K" DetailColor="g" /> 
   </model>
   <model ID="CYFE_eule_exilemutantguard" Name="{{M|Exile Mutant Guard (Eule)}}">
@@ -80,11 +82,7 @@
   <model ID="CYFE_eule_exiletruekinpreacher" Name="{{M|Exile Truekin Preacher (Eule)}}">
       <tile Path="players/exile_truekin_preacher.png" Foreground="y" DetailColor="C" /> 
   </model>
-    <model ID="CYFE_eule_maskedstranger" Name="{{M|Masked Stranger (Eule)}}">
+  <model ID="CYFE_eule_maskedstranger" Name="{{M|Masked Stranger (Eule)}}">
       <tile Path="players/maskedstranger.png" Foreground="Y" DetailColor="c" /> 
   </model>
-
-
-
-
 </KernelmethodChooseYourFighter>

@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3114283446,
+  "Title": "CYF Expansion",
+  "Description": "An expansion for Choose Your Fighter for Caves of Qud spanning nearly 30 character choices so far. Obviously this mod will not work if you aren't using Kernelmethod's excellent Choose Your Fighter mod.\n\nCaves of Qud is a brilliantly deep and immersive game with surprisingly good visual style for a roguelike. There are dozens of different cute and visually striking silhouette-style player sprites to choose from, and they capture a wide variety of character and personality. Despite this, the one thing I have always felt it's missing is the lack of visually present mutations or cybernetics - other than the shell on the Dream Tortoise and the torso of an errant Hindren, there are no player sprites to represent the vast amount of many-limbed horrors mutant players often build, or the dystopic cyborgs Truekin players put together. Thus, CYFEx - Choose Your Fighter Expansion - is born. Feel free to DM me, comment or open an issue with character build requests!\n\n=== Recommendation ===\r\n\r\nThere is a lot of color design in many player sprites (not just in this mod but in others as well) and the \"Color player's @ based on HP Level\" option can wash them out at full health. Turning this off will improve the look of a lot of sprites.\n\nSee the Github for future plans as well as an image of every sprite!\n\nhttps://github.com/Sarcose/CYFEx",
+  "Tags": "sprite",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}
