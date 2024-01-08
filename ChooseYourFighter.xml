@@ -30,7 +30,6 @@
   <model ID="CYFE_base_manyfaces" Name="{{M|Super Ego}}">
     <tile Path="players/manyfacedegoist.png" Foreground="y" DetailColor="O" />
   </model>
-
   <model ID="CYFE_base_multilimbtinker" Name="{{M|Many-limbed (Mutated Tinker)}}">
     <tile Path="players/multilimbtinker.png" Foreground="c" DetailColor="o" /> 
   </model>
@@ -49,43 +48,68 @@
   <model ID="CYFE_base_treadbot" Name="{{M|Treadbot (with gunracks)}}">
     <tile Path="players/guntank.png" Foreground="y" DetailColor="c" />
   </model>
-  <model ID="CYFE_base_wingedhood" Name="{{M|Hooded Flyer}}">
-    <tile Path="players/wingedhood.png" Foreground="y" DetailColor="W" />
-  </model>
   <model ID="CYFE_base_limbedwinged" Name="{{M|Multi-limb Flyer}}">
     <tile Path="players/manylimbedwinged.png" Foreground="y" DetailColor="c" />
   </model>
   <model ID="CYFE_eule_tehuilotic" Name="{{M|Tehuilotic (Eule)}}">
-      <tile Path="players/tehuineonate.png" Foreground="G" DetailColor="K" />
+      <tile Path="players/eule/tehuineonate.png" Foreground="G" DetailColor="K" />
   </model>
   <model ID="CYFE_eule_exilewightmender" Name="{{M|Exile Wight Mender (Eule)}}">
-      <tile Path="players/exile_wight_mender.png" Foreground="M" DetailColor="R" />
+      <tile Path="players/eule/exile_wight_mender.png" Foreground="M" DetailColor="R" />
   </model>
   <model ID="CYFE_eule_exilewightscavenger" Name="{{M|Exile Wight Scavenger (Eule)}}">
-      <tile Path="players/exile_wight_scavenger.png" Foreground="m" DetailColor="R" /> 
+      <tile Path="players/eule/exile_wight_scavenger.png" Foreground="m" DetailColor="R" /> 
   </model>
   <model ID="CYFE_eule_exilewightstalker" Name="{{M|Exile Wight Stalker (Eule)}}">
-      <tile Path="players/exile_wight_stalker.png" Foreground="m" DetailColor="r" /> 
+      <tile Path="players/eule/exile_wight_stalker.png" Foreground="m" DetailColor="r" /> 
   </model>
   <model ID="CYFE_eule_exilemutant" Name="{{M|Exile Mutant (Eule)}}">
-      <tile Path="players/exile_mutant.png" Foreground="K" DetailColor="g" /> 
+      <tile Path="players/eule/exile_mutant.png" Foreground="K" DetailColor="g" /> 
   </model>
   <model ID="CYFE_eule_exilemutantguard" Name="{{M|Exile Mutant Guard (Eule)}}">
-      <tile Path="players/exile_mutant_guard.png" Foreground="K" DetailColor="B" />
+      <tile Path="players/eule/exile_mutant_guard.png" Foreground="K" DetailColor="B" />
   </model>
   <model ID="CYFE_eule_exilemutantpreacher" Name="{{M|Exile Mutant Preacher (Eule)}}">
-      <tile Path="players/exile_mutant_preacher.png" Foreground="K" DetailColor="M" />
+      <tile Path="players/eule/exile_mutant_preacher.png" Foreground="K" DetailColor="M" />
   </model>
   <model ID="CYFE_eule_exiletruekin" Name="{{M|Exile Truekin (Eule)}}">
-      <tile Path="players/exile_truekin.png" Foreground="y" DetailColor="O" /> 
+      <tile Path="players/eule/exile_truekin.png" Foreground="y" DetailColor="O" /> 
   </model>
   <model ID="CYFE_eule_exiletruekinguard" Name="{{M|Exile Truekin Guard (Eule)}}">
-      <tile Path="players/exile_truekin_guard.png" Foreground="y" DetailColor="B" />
+      <tile Path="players/eule/exile_truekin_guard.png" Foreground="y" DetailColor="B" />
   </model>
   <model ID="CYFE_eule_exiletruekinpreacher" Name="{{M|Exile Truekin Preacher (Eule)}}">
-      <tile Path="players/exile_truekin_preacher.png" Foreground="y" DetailColor="C" /> 
+      <tile Path="players/eule/exile_truekin_preacher.png" Foreground="y" DetailColor="C" /> 
   </model>
   <model ID="CYFE_eule_maskedstranger" Name="{{M|Masked Stranger (Eule)}}">
-      <tile Path="players/maskedstranger.png" Foreground="Y" DetailColor="c" /> 
+      <tile Path="players/eule/maskedstranger.png" Foreground="Y" DetailColor="c" /> 
+  </model>
+  
+  <model ID="CYFE_kafka_scrappy" Name="{{M|Scrappy Kitty (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_scrappy_kitty.png" Foreground="Y" DetailColor="B" /> 
+  </model>
+  <model ID="CYFE_kafka_gunkitten" Name="{{M|Gun Kitten (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_gun_kitten.png" Foreground="Y" DetailColor="r" /> 
+  </model>
+  <model ID="CYFE_kafka_claimer" Name="{{M|Claimer of Laps (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_claimer_of_laps.png" Foreground="Y" DetailColor="m" /> 
+  </model>
+  <model ID="CYFE_kafka_swordskitten" Name="{{M|Swordskitten (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_swordskitten.png" Foreground="Y" DetailColor="B" /> 
+  </model>
+  <model ID="CYFE_kafka_alleycat" Name="{{M|Destroyer of Yarn (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_alley_cat.png" Foreground="Y" DetailColor="W" /> 
+  </model>
+  <model ID="CYFE_kafka_cougar" Name="{{M|Wiregnawer (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_cougar.png" Foreground="Y" DetailColor="b" /> 
+  </model>
+  <model ID="CYFE_kafka_frisbeekitten" Name="{{M|Frisbee Kitten (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_frisbee_kitten.png" Foreground="Y" DetailColor="o" /> 
+  </model>
+  <model ID="CYFE_kafka_cougar2" Name="{{M|Panther (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_cougar_2.png" Foreground="Y" DetailColor="K" /> 
+  </model>
+  <model ID="CYFE_kafka_nyanpire" Name="{{M|Nyanpire (KafkaExMachina)}}">
+      <tile Path="players/KafkaExMachina/catgirls/kf_nyanpire.png" Foreground="Y" DetailColor="r" /> 
   </model>
 </KernelmethodChooseYourFighter>
