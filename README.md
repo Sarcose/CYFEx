@@ -42,8 +42,8 @@ Please feel free to suggest more! Especially Truekin, as I am less familiar with
 - ~~Fully cyborgized tankbot~~
 - Helping hands
 - Giant hands/giant rifle (there is *one* big weapon person so far though)
-- 
 
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/07ace4cd-c0c9-4997-8382-89926617e163)
+![image](https://github.com/Sarcose/CYFEx/assets/6192665/e93c9791-ac0b-41b1-b992-27ada64f2642)
+
 
 
