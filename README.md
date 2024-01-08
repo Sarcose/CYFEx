@@ -15,33 +15,7 @@ There is a lot of color design in many player sprites (not just in this mod but 
 
 ## Outside Contributors:
 - Eule: Tehuilotic sprite and Exile mutants, truekin, and wights
-
-## Planned Sprites 
-Please feel free to suggest more! Especially Truekin, as I am less familiar with common builds
-
-### Mutants
-- ~~2 head warrior: Ettin~~
-- ~~2 head esper~~
-- ~~4 Arm warrior: Goro-style~~
-- ~~Many-limbed Horseshoe crab style~~
-- ~~2 head multi-limb tinker~~
-- ~~Big weapon wielder (possibly multi-handed)~~
-- ~~Many-faced esper/proselytizer~~
-- ~~Stinger tail~~
-- ~~Multi-legged tail~~
-- Winged sprites (many arms with wings -- insect or angel style)
-- ~~Hooded Flyer (angelic?)~~
-- ~~4 arm hindren warrior~~
-- Hindren gunner
-- ~~Two head esper Hindren~~
-- At least one Gelatinous Form sprite
-
-### Truekin
-- ~~Gunkin~~
-- ~~Punchkin~~
-- ~~Fully cyborgized tankbot~~
-- Helping hands
-- Giant hands/giant rifle (there is *one* big weapon person so far though)
+- KafkaExMachina: Catgirls
 
 ![image](https://github.com/Sarcose/CYFEx/assets/6192665/e93c9791-ac0b-41b1-b992-27ada64f2642)
 
