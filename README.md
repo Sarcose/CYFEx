@@ -17,7 +17,7 @@ There is a lot of color design in many player sprites (not just in this mod but 
 - Eule: Tehuilotic sprite and Exile mutants, truekin, and wights
 - KafkaExMachina: Catgirls
 
-![image](https://github.com/Sarcose/CYFEx/assets/6192665/e93c9791-ac0b-41b1-b992-27ada64f2642)
+![image](https://github.com/Sarcose/CYFEx/assets/6192665/6563fcda-25e2-4fe1-a4f1-9ee29b27db7b)
 
 
 

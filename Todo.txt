@@ -11,10 +11,9 @@ Chimeras:
 
 Espers:
 - Light themed
-- Cryo themed
-- Pyro themed
-- Sunder/Telepathy themed
-- 'God-tier' esper (power everywhere)
+- Cryo themed (done)
+- Pyro themed (done)
+- Sunder/Telepathy themed (done)
 
 Truekin:
 

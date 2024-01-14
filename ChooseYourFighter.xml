@@ -24,6 +24,31 @@
   <model ID="CYFE_base_2headhindren" Name="{{M|2 Headed Hindren}}">
     <tile Path="players/2headhindren.png" Foreground="Y" DetailColor="b" /> 
   </model>
+  <model ID="CYFE_base_esper_fire" Name="{{M|Ignitionist}}">
+    <tile Path="players/esper_fire.png" Foreground="y" DetailColor="o" />
+  </model>
+  <model ID="CYFE_base_esper_cryo" Name="{{M|Frostweaver}}">
+    <tile Path="players/esper_cryo.png" Foreground="Y" DetailColor="C" />
+  </model>
+  <model ID="CYFE_base_esper_herbalist" Name="{{M|Vinespeaker}}">
+    <tile Path="players/esper_herbalist.png" Foreground="G" DetailColor="W" />
+  </model>
+
+  <model ID="CYFE_base_esper_light" Name="{{M|Luminar}}">
+    <tile Path="players/esper_light.png" Foreground="y" DetailColor="W" />
+  </model>
+  <model ID="CYFE_base_esper_mindallurer" Name="{{M|Allurer}}">
+    <tile Path="players/esper_allurer.png" Foreground="y" DetailColor="M" />
+  </model>
+  <model ID="CYFE_base_esper_mindwhisperer" Name="{{M|Whisperer}}">
+    <tile Path="players/esper_whisperer.png" Foreground="K" DetailColor="M" />
+  </model>
+  <model ID="CYFE_base_esper_mindxtelepath" Name="{{M|Thoughtshaper}}">
+    <tile Path="players/esper_telepath.png" Foreground="y" DetailColor="M" />
+  </model>
+
+
+
   <model ID="CYFE_base_HoodedFlyer" Name="{{M|Hooded Flyer}}">
     <tile Path="players/wingedhood.png" Foreground="y" DetailColor="W" />
   </model>
