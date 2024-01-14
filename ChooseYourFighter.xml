@@ -27,6 +27,14 @@
   <model ID="CYFE_base_HoodedFlyer" Name="{{M|Hooded Flyer}}">
     <tile Path="players/wingedhood.png" Foreground="y" DetailColor="W" />
   </model>
+  <model ID="CYFE_base_meltbrute" Name="{{M|Melty Bruiser (mud)}}">
+    <tile Path="players/meltbrute.png" Foreground="O" DetailColor="w" />
+  </model>
+  <model ID="CYFE_base_meltbrute2" Name="{{M|Melty Bruiser (slime))}}">
+    <tile Path="players/meltbrute.png" Foreground="G" DetailColor="K" />
+  </model>
+
+
   <model ID="CYFE_base_manyfaces" Name="{{M|Super Ego}}">
     <tile Path="players/manyfacedegoist.png" Foreground="y" DetailColor="O" />
   </model>
